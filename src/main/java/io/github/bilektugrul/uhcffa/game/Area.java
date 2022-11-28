@@ -1,4 +1,4 @@
-package io.github.bilektugrul.uhcffa.area;
+package io.github.bilektugrul.uhcffa.game;
 
 import org.bukkit.Location;
 

@@ -1,6 +1,6 @@
 name: UHCFFA
 version: '${project.version}'
 main: io.github.bilektugrul.uhcffa.UHCFFA
-api-version: 1.18
+api-version: 1.13
 authors: [ bilektugrul, Despical ]
 description: The best UHCFFA plugin out there.
